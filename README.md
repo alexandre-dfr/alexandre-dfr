@@ -8,7 +8,7 @@
 
 <div align="center">
 
-### 🛡️ Infrastructure • Cybersecurity • Microsoft Cloud • Automation
+## Infrastructure • Cybersecurity • Microsoft Cloud • Automation
 
 Administrateur cybersécurité spécialisé dans l'infogérance,
 l'administration, la sécurisation et l'évolution d'infrastructures IT.
@@ -23,7 +23,7 @@ l'administration, la sécurisation et l'évolution d'infrastructures IT.
   <img alt="divider" src="./assets/dividers/divider-dark.svg">
 </picture>
 
-## 👨‍💻 About Me
+## About Me
 
 ```yaml
 name: Alexandre Dufour
@@ -44,8 +44,3 @@ specializations:
   - Backup
   - Automation
   - IT Support
-<picture>
-<source media="(prefers-color-scheme: dark)" srcset="./assets/dividers/divider-dark.svg">
-<source media="(prefers-color-scheme: light)" srcset="./assets/dividers/divider-light.svg">
-<img alt="divider" src="./assets/dividers/divider-dark.svg">
-</picture>
